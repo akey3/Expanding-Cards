@@ -1,3 +1,3 @@
 # Expanding-Cards
-Simple widget of expanding images using JavaScript, HTML, and CSS. 
+Simple widget of images that expand when clicked using JavaScript, HTML, and CSS. 
 https://akey3.github.io/Expanding-Cards/
